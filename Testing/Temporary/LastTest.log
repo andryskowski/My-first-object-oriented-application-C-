@@ -1,0 +1,57 @@
+Start testing: Nov 02 20:23 CET
+----------------------------------------------------------
+1/1 Testing: TestBiblioteki1
+1/1 Test: TestBiblioteki1
+Command: "/home/student/Pulpit/224247/trunk/projekt/biblioteka/TestBibl" "--report_level=detailed" "--log_level=all" "--color_output=yes"
+Directory: /home/student/Pulpit/224247/trunk/projekt/biblioteka
+"TestBiblioteki1" start time: Nov 02 20:23 CET
+Output:
+----------------------------------------------------------
+Running 2 test cases...
+[1;34;49mEntering test module "Master Test Suite"
+[0;39;49m[1;34;49m/home/student/Pulpit/224247/trunk/projekt/biblioteka/test/ClientTest.cpp(5): Entering test suite "ClientSuiteCorrect"
+[0;39;49m[1;34;49m/home/student/Pulpit/224247/trunk/projekt/biblioteka/test/ClientTest.cpp(7): Entering test case "ClientFirstNameCase"
+[0;39;49m/home/student/Pulpit/224247/trunk/projekt/biblioteka/test/ClientTest.cpp(9): [1;32;49minfo: check client.getFirstName() == "Jan" has passed[0;39;49m
+/home/student/Pulpit/224247/trunk/projekt/biblioteka/test/ClientTest.cpp(10): [1;32;49minfo: check client.getLastName() == "Kowalski" has passed[0;39;49m
+/home/student/Pulpit/224247/trunk/projekt/biblioteka/test/ClientTest.cpp(11): [1;32;49minfo: check client.getPersonalID() == "1567890" has passed[0;39;49m
+Wywolano destruktor
+[1;34;49m/home/student/Pulpit/224247/trunk/projekt/biblioteka/test/ClientTest.cpp(7): Leaving test case "ClientFirstNameCase"; testing time: 121us
+[0;39;49m[1;34;49m/home/student/Pulpit/224247/trunk/projekt/biblioteka/test/ClientTest.cpp(5): Leaving test suite "ClientSuiteCorrect"; testing time: 134us
+[0;39;49m[1;34;49m/home/student/Pulpit/224247/trunk/projekt/biblioteka/test/ClientTest.cpp(18): Entering test suite "AddressCorrect"
+[0;39;49m[1;34;49m/home/student/Pulpit/224247/trunk/projekt/biblioteka/test/ClientTest.cpp(20): Entering test case "AddressStreetCase"
+[0;39;49m/home/student/Pulpit/224247/trunk/projekt/biblioteka/test/ClientTest.cpp(22): [4;31;49mfatal error: in "AddressCorrect/AddressStreetCase": critical check address.getS() == "Wiezbowa" has failed [Wierzbowa != Wiezbowa][0;39;49m
+[1;34;49m/home/student/Pulpit/224247/trunk/projekt/biblioteka/test/ClientTest.cpp(20): Leaving test case "AddressStreetCase"; testing time: 148us
+[0;39;49m[1;34;49m/home/student/Pulpit/224247/trunk/projekt/biblioteka/test/ClientTest.cpp(18): Leaving test suite "AddressCorrect"; testing time: 157us
+[0;39;49m[1;34;49mLeaving test module "Master Test Suite"; testing time: 308us
+[0;39;49m
+Test module "Master Test Suite" has failed with:
+  1 test case out of 2 passed
+  1 test case out of 2 failed
+  1 test case out of 2 aborted
+  3 assertions out of 4 passed
+  1 assertion out of 4 failed
+
+  Test suite "ClientSuiteCorrect" has passed with:
+    1 test case out of 1 passed
+    3 assertions out of 3 passed
+
+    Test case "ClientSuiteCorrect/ClientFirstNameCase" has passed with:
+      3 assertions out of 3 passed
+
+  Test suite "AddressCorrect" has failed with:
+    1 test case out of 1 failed
+    1 test case out of 1 aborted
+    1 assertion out of 1 failed
+
+    Test case "AddressCorrect/AddressStreetCase" was aborted with:
+      1 assertion out of 1 failed
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"TestBiblioteki1" end time: Nov 02 20:23 CET
+"TestBiblioteki1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 02 20:23 CET

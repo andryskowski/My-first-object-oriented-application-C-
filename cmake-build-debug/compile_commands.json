@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/program",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/program/include -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Program.dir/src/main.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/program/src/main.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/program/src/main.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/client.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/client.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/client.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/address.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/address.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/address.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/vehicle.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/vehicle.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/vehicle.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/rent.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/rent.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/rent.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/car.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/car.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/car.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/mope.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/mope.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/mope.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/motorvehicle.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/motorvehicle.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/motorvehicle.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/bicycle.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/bicycle.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/bicycle.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/currentrentsrepository.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/currentrentsrepository.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/currentrentsrepository.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/vehiclerepository.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/vehiclerepository.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/vehiclerepository.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/clientrepository.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/clientrepository.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/clientrepository.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/clientgold.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/clientgold.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/clientgold.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/clientsilver.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/clientsilver.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/clientsilver.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/clientbronze.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/clientbronze.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/clientbronze.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/model/clienttype.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/clienttype.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/src/model/clienttype.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/TestBibl.dir/test/master.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/test/master.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/test/master.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/224247/trunk/poprawny_projekt/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include -I/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/include/model  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/TestBibl.dir/test/ClientTest.cpp.o -c /home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/test/ClientTest.cpp",
+  "file": "/home/student/Pulpit/224247/trunk/poprawny_projekt/biblioteka/test/ClientTest.cpp"
+}
+]

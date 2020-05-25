@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="POBIProject" targetName="check" />
+      <config projectName="POBIProject" targetName="TestBibl" />
+      <config projectName="POBIProject" targetName="Program" />
+      <config projectName="POBIProject" targetName="Biblioteka" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4a8ec87-4bf2-4a36-a747-a874bf8d2017" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/include/model/Client.h" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/include/model/Client.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/include/model/ClientGold.h" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/include/model/ClientGold.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/include/model/ClientType.h" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/include/model/ClientType.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/src/model/client.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/src/model/client.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/src/model/clientgold.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/src/model/clientgold.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/src/model/rent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/src/model/rent.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteka/src/model/vehicle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka/src/model/vehicle.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-Biblioteka" />
+  </component>
+  <component name="ProjectId" id="1STEFLEpzgTbv8tMBZJoUiyuqGN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/biblioteka/src/model" />
+      <recent name="$PROJECT_DIR$/biblioteka/include/model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Program">
+    <configuration name="Biblioteka" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="POBIProject" TARGET_NAME="Biblioteka" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="POBIProject" TARGET_NAME="Program" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="POBIProject" RUN_TARGET_NAME="Program">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBibl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="POBIProject" TARGET_NAME="TestBibl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="POBIProject" RUN_TARGET_NAME="TestBibl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" singleton="false" nameIsGenerated="true" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="POBIProject" TARGET_NAME="check" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Unnamed" />
+      <item itemvalue="CMake Application.Biblioteka" />
+      <item itemvalue="CMake Application.check" />
+      <item itemvalue="CMake Application.TestBibl" />
+      <item itemvalue="CMake Application.Program" />
+    </list>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a8ec87-4bf2-4a36-a747-a874bf8d2017" name="Default Changelist" comment="" />
+      <created>1571579080459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571579080459</updated>
+      <workItem from="1571579081704" duration="613000" />
+      <workItem from="1571583372007" duration="44000" />
+      <workItem from="1571583458558" duration="2149000" />
+      <workItem from="1571589953057" duration="370000" />
+      <workItem from="1571590348569" duration="636000" />
+      <workItem from="1571592149097" duration="222000" />
+      <workItem from="1571644375006" duration="514000" />
+      <workItem from="1571644958048" duration="202000" />
+      <workItem from="1571645229554" duration="184000" />
+      <workItem from="1571663313400" duration="376000" />
+      <workItem from="1571675176855" duration="10674000" />
+      <workItem from="1571685953300" duration="154000" />
+      <workItem from="1572098598763" duration="4160000" />
+      <workItem from="1572103788129" duration="758000" />
+      <workItem from="1572104582992" duration="1697000" />
+      <workItem from="1572165469848" duration="892000" />
+      <workItem from="1572208929857" duration="1082000" />
+      <workItem from="1572699981819" duration="16075000" />
+      <workItem from="1572769675124" duration="8795000" />
+      <workItem from="1572971820334" duration="369000" />
+      <workItem from="1573298417779" duration="10149000" />
+      <workItem from="1573337521441" duration="2298000" />
+      <workItem from="1573407698353" duration="9326000" />
+      <workItem from="1573461122109" duration="18187000" />
+      <workItem from="1574272891033" duration="2091000" />
+      <workItem from="1574275030615" duration="1647000" />
+      <workItem from="1574333682988" duration="1776000" />
+      <workItem from="1574335529824" duration="47000" />
+      <workItem from="1574369988136" duration="1604000" />
+      <workItem from="1574372319259" duration="1690000" />
+      <workItem from="1574374241976" duration="559000" />
+      <workItem from="1574589319700" duration="1742000" />
+      <workItem from="1574591873954" duration="12078000" />
+      <workItem from="1574604495200" duration="3309000" />
+      <workItem from="1574613928427" duration="16647000" />
+      <workItem from="1574678187853" duration="2190000" />
+      <workItem from="1574680710116" duration="771000" />
+      <workItem from="1574682095177" duration="290000" />
+      <workItem from="1574682637294" duration="2008000" />
+    </task>
+    <task id="LOCAL-00001" summary="Warsztaty #5">
+      <created>1574683008350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574683008350</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Warsztaty #5">
+      <created>1574683189865</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574683189865</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1574683267389</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574683267389</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Warsztaty #2" />
+    <MESSAGE value="Warsztaty #3" />
+    <MESSAGE value="Warsztaty #5" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+</project>
